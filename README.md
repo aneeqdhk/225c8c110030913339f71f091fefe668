@@ -1,1 +1,2 @@
-# 225c8c110030913339f71f091fefe668
+# Placement Bootcamp 2017
+Repository Maintainer: aneeqdhk@gmail.com
